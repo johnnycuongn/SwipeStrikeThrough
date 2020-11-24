@@ -59,3 +59,11 @@ Inside function handlePan(gesture:) :
 `xTranslation` > 0: User start swiping from left to right (This is already for swipe to strike through)
 
 `xTranslation` < 0 : User start swiping from right to left (Not yet handle)
+
+# Installation 
+
+Download clone and embeded into your project:
+
+1. Download
+2. Drag .xcodeproj into your source
+3. Embed framework in General → Frameworks and Libraries
