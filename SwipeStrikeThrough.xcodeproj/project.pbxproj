@@ -35,6 +35,7 @@
 		40C776762567E08000708BC6 = {
 			isa = PBXGroup;
 			children = (
+				407A5ED0256D1EAA00533052 /* README.md */,
 				40C776822567E08000708BC6 /* SwipeStrikeThrough */,
 				40C776812567E08000708BC6 /* Products */,
 			);
@@ -55,7 +56,6 @@
 				40C776842567E08000708BC6 /* Info.plist */,
 				40C7768C2567E09400708BC6 /* StrikeThrough.swift */,
 				40C776912567EBAC00708BC6 /* StringExtension.swift */,
-				407A5ED0256D1EAA00533052 /* README.md */,
 			);
 			path = SwipeStrikeThrough;
 			sourceTree = "<group>";
